@@ -2,7 +2,7 @@
   "name": "giphy-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://giphyimages.com/gif/",
+  "homepage": "https://TejaswiniSekharamantri.github.io/Giphy-Application",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
